@@ -4,7 +4,7 @@
 2. 修改 vite.config.ts 中的 base 路径为您的仓库名
 3. 将此目录下的所有文件上传到您的GitHub仓库
 4. 在仓库设置中启用 GitHub Pages，选择 "GitHub Actions"
-5. 等待部署完成，访问您的网站
+5. 等待部署完成，访问您的网站，
 
 详细说明请查看：
 - README.md
